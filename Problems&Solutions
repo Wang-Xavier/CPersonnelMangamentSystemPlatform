@@ -1,0 +1,20 @@
+The coronavirus has been around for a year, now it has been under controlled in many countries. However, the virus just like the cold can't be limited at all. The war is still going on. There are also many aspects could be optimized. Below are some our team came up with.
+
+- Individual workers who come into contact with imported products are often infected, especially frozen fresh products.
+- Manual temperature detection is tedious and troublesome. After detection, the data is needed manually to input into the system. The operation is repeated and the efficiency is low. 
+- Masks which are placed in a fixed location are easy to be infected with dust and germs, and there is no fixed reminder function for colleagues without masks.
+- Vaccines have appeared gradually, but the effects and feelings of use still need to be tracked and recorded.
+- Cause the infected rate becoming lower, people are losing the attention of the Covid-19 news.
+- Medical workers to help with nucleic acid testing will increase the rate of infection.
+- In order to prevent the spread of the virus, large areas of public places need to be disinfected frequently. Workers must wear protective clothing to spray disinfectant. That not only cost lots of manpower and resource but increase the rate of infection.
+- During the epidemic period, a large number of patients went to the hospital to take lung CT to check whether they were infected with COVID-19, how to improve the work efficiency of doctors to meet the needs of a great quantity of patients.
+
+
+About the problem statements mentioned above, we have thought out the solutions aimed at each of them. Here are the solutions.
+
+- To develop an unmanned fully automatic assembly line workshop to disinfect imported products through ultraviolet sterilization, so that hidden coronavirus can be eliminated without contact.
+- To build such a machine, the temperature will be automatically measured when employees enter the door, and the data will be input into the system through face recognition or employee access control information for identification. There are masks in the internal disinfection area of the machine. If the employee is not wearing a mask, he will be reminded by voice and pop out a usable mask. The panel contains information on the progress of vaccine development around the world, testers could record the feellings after being vaccinated, and employees can select specific information to view.
+- To develop a software to carry and update the news of the COVID-19 from the media in different countries in real time. The live broadcasting can raise people’s awareness of Covid-19 crisis.
+- To achieve self-service nucleic acid detection, the patient completes the detection by himself and puts it in the detection machine. In order to reach better detection results, a cotton swab with graduations will be used for the patient.
+- To use drones to spray disinfectant, which not only liberates manpower, but is also efficient and safe.
+- In order to improve the work efficiency of doctors, we can widely use artificial intelligence in the medical field. The shape and size of pulmonary nodules are variable, so it is necessary to use complex deep neural network and Bayesian network based on probability to identify pulmonary nodules. Through the rapid reading and quantitative analysis of artificial intelligence, doctors can greatly improve the speed and accuracy of diagnosis and reduce the rate of missed diagnosis.
